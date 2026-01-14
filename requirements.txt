@@ -1,0 +1,8 @@
+langchain
+langchain_google_genai
+langchain_core
+pandas
+dotenv
+streamlit
+python-docx
+langchain_community
